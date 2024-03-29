@@ -31,3 +31,10 @@ My goal is to be a full-stack developer and land a job at my dream company!!_
 <br/>
 
 :two_hearts:_**This is your first introduction to who I am, as I progress as a web developer this page will be updated. Stay tuned!!!!!**_:two_hearts:
+
+<br/>
+
+
+
+> [!IMPORTANT]
+> This is just the start of my Coding journey it's still in the beginning stages but come along for the ride.
